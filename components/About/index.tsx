@@ -61,19 +61,19 @@ const About = () => {
             >
               <span className="font-medium uppercase text-black dark:text-white">
                 <span className="mb-4 mr-4 inline-flex rounded-full bg-meta px-4.5 py-1 text-metatitle uppercase text-white ">
-                  New
+                  Hyper Ledger Fabric
                 </span>{" "}
-                SaaS Boilerplate for Next.js
+                Inventory and Marketplace
               </span>
               <h2 className="relative mb-6 text-3xl font-bold text-black dark:text-white xl:text-hero">
                 A Complete Solution for
                 <span className="relative inline-block before:absolute before:bottom-2.5 before:left-0 before:-z-1 before:h-3 before:w-full before:bg-titlebg dark:before:bg-titlebgdark">
-                  SaaS Startup
+                  Provenance !
                 </span>
               </h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut
-                ultricies lacus non fermentum ultrices. Fusce consectetur le.
+                HyperLog provides an inbuilt inventory tool with Bill-Of-Materials (BOM) feature to keep a report of your stock items and post its 
+                provenance on the blockchain. It also provides an explorer to check the provenance and a marketplace to find items with provenance.
               </p>
 
               <div className="mt-7.5 flex items-center gap-5">
@@ -84,9 +84,9 @@ const About = () => {
                 </div>
                 <div className="w-3/4">
                   <h3 className="mb-0.5 text-metatitle2 text-black dark:text-white">
-                    React 18, Next.js 13 and TypeScript
+                    Provenance based Market Place
                   </h3>
-                  <p>Ut ultricies lacus non fermentum ultrices.</p>
+                  <p>Build your stock with components with provenance and improve your quality</p>
                 </div>
               </div>
               <div className="mt-7.5 flex items-center gap-5">
@@ -97,9 +97,9 @@ const About = () => {
                 </div>
                 <div className="w-3/4">
                   <h3 className="mb-0.5 text-metatitle2 text-black dark:text-white">
-                    Fully Customizable
+                    Provenance Explorer
                   </h3>
-                  <p>consectetur adipiscing elit fermentum ultricies.</p>
+                  <p>Check the Provenance of your items or inputs on the explorer</p>
                 </div>
               </div>
             </motion.div>
@@ -131,7 +131,7 @@ const About = () => {
               className="animate_left md:w-1/2"
             >
               <h4 className="font-medium uppercase text-black dark:text-white">
-                Launch Your SaaS Fast
+                Launch Your Products with Provenance
               </h4>
               <h2 className="relative mb-6 text-3xl font-bold text-black dark:text-white xl:text-hero">
                 Packed with All Essential {"   "}
@@ -140,8 +140,8 @@ const About = () => {
                 </span>
               </h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut
-                ultricies lacus non fermentum ultrices. Fusce consectetur le.
+                HyperLog provides all the integrations to build your products with ingredients whose quality is proved with provenance on the blockchain 
+                Maintains its logs on the inbuilt inventory and publish it on the marketplace, disclosing the history of the products and its ingredients on the blockchain.
               </p>
               <div>
                 <a

@@ -13,11 +13,12 @@ const Feature = () => {
           {/* <!-- Section Title Start --> */}
           <SectionHeader
             headerInfo={{
-              title: "SOLID FEATURES",
-              subtitle: "Core Features of Solid",
-              description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. In
-            convallis tortor eros. Donec vitae tortor lacus. Phasellus aliquam
-            ante in maximus.`,
+              title: "HyperLog FEATURES",
+              subtitle: "Core Features of HyperLog Based Provenance",
+              description: `Transactions between parties is based on trust. 
+            However, this trust comes with time and openness. Hyperlog based transactions enables 
+            to build this trust by opening our transactions history. 
+            It provides you a marketplace with provenance along with a free inventory tool.`,
             }}
           />
           {/* <!-- Section Title End --> */}

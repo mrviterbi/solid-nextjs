@@ -4,44 +4,44 @@ const featuresData: Feature[] = [
   {
     id: 1,
     icon: "/images/icon/icon-01.svg",
-    title: "Crafted for SaaS",
+    title: "Crafted for Business",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor.",
+      "An inbuilt inventory tool where in you can track your stock and decide which items to be put for Provenance Check.",
   },
   {
     id: 2,
     icon: "/images/icon/icon-02.svg",
     title: "High-quality Design",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor.",
+      "Based on open source Hyperledger Fabric along with API integration for already existing Inventory Tools",
   },
   {
     id: 3,
     icon: "/images/icon/icon-03.svg",
-    title: "Next.js 13 + TypeScript",
+    title: "Market with Provenance",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor.",
+      "An open marketplace having items with provenance - owned and operated collectively in decentralized way.",
   },
   {
     id: 4,
     icon: "/images/icon/icon-04.svg",
-    title: "Sanity Blog and Docs",
+    title: "Zoom your Qualilty",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor.",
+      "Build and market products with best quality and proved with immutable records on blockchain.",
   },
   {
     id: 5,
     icon: "/images/icon/icon-05.svg",
-    title: "DB, Auth and Stripe",
+    title: "Permissioned Blockchain",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor.",
+      "HyperLog is based on permissioned HyperLedger Fabric. Only allowed members to join. There is no cost in sending transactions.",
   },
   {
     id: 6,
     icon: "/images/icon/icon-06.svg",
-    title: "Regular Free Updates",
+    title: "Decentralized with Peers",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor.",
+      "The smart contract is open and updated by the peers. No centralized authority.",
   },
 ];
 

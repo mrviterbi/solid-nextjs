@@ -12,9 +12,9 @@ const Pricing = () => {
           <div className="animate_top mx-auto text-center">
             <SectionHeader
               headerInfo={{
-                title: `PRICING PLANS`,
-                subtitle: `Simple Pricing`,
-                description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor eros. Donec vitae tortor lacus. Phasellus aliquam ante in maximus.`,
+                title: `Joining Plans`,
+                subtitle: `Ways to Join`,
+                description: `The network can be joined in various ways to utilize the provenance features.`,
               }}
             />
           </div>
@@ -34,39 +34,39 @@ const Pricing = () => {
             {/* <!-- Pricing Item --> */}
             <div className="animate_top group relative rounded-lg border border-stroke bg-white p-7.5 shadow-solid-10 dark:border-strokedark dark:bg-blacksection dark:shadow-none md:w-[45%] lg:w-1/3 xl:p-12.5">
               <h3 className="mb-7.5 text-3xl font-bold text-black dark:text-white xl:text-sectiontitle3">
-                $10{" "}
+                Peers{" "}
                 <span className="text-regular text-waterloo dark:text-manatee">
-                  /month
+                  
                 </span>
               </h3>
               <h4 className="mb-2.5 text-para2 font-medium text-black dark:text-white">
-                Small Pack
+                Large Business Houses
               </h4>
-              <p>Lorem ipsum dolor sit amet, consec adipisicing elit.</p>
+              <p> Buisnesses can joine as peers to help in hosting and maintenance of chaincode and data.</p>
 
               <div className="mt-9 border-t border-stroke pb-12.5 pt-9 dark:border-strokedark">
                 <ul>
                   <li className="mb-4 text-black last:mb-0 dark:text-manatee">
-                    300 GB Storage
+                    Full ownership
                   </li>
                   <li className="mb-4 text-black last:mb-0 dark:text-manatee">
-                    Unlimited Photos and Videos
+                    Orderer, Endorsers and Peers
                   </li>
                   <li className="mb-4 text-black opacity-40 last:mb-0 dark:text-manatee">
                     Exclusive Support
                   </li>
                   <li className="mb-4 text-black opacity-40 last:mb-0 dark:text-manatee">
-                    Custom Branding Strategy
+                    Onboard own users and create specific channels
                   </li>
                 </ul>
               </div>
 
               <button
-                aria-label="Get the Plan button"
+                aria-label="Explore button"
                 className="group/btn inline-flex items-center gap-2.5 font-medium text-primary transition-all duration-300 dark:text-white dark:hover:text-primary"
               >
                 <span className="duration-300 group-hover/btn:pr-2">
-                  Get the Plan
+                  Explore More
                 </span>
                 <svg
                   width="14"
@@ -89,39 +89,39 @@ const Pricing = () => {
               </div>
 
               <h3 className="mb-7.5 text-3xl font-bold text-black dark:text-white xl:text-sectiontitle3">
-                $59{" "}
+                Users{" "}
                 <span className="text-regular text-waterloo dark:text-manatee">
-                  /month
+                  
                 </span>
               </h3>
               <h4 className="mb-2.5 text-para2 font-medium text-black dark:text-white">
-                Medium Pack
+                Small Business Houses
               </h4>
-              <p>Lorem ipsum dolor sit amet, consec adipisicing elit.</p>
+              <p>Medium and small enterprises can join as users to any of the peers.</p>
 
               <div className="mt-9 border-t border-stroke pb-12.5 pt-9 dark:border-strokedark">
                 <ul>
                   <li className="mb-4 text-black last:mb-0 dark:text-manatee">
-                    300 GB Storage
+                    Access Inventory
                   </li>
                   <li className="mb-4 text-black last:mb-0 dark:text-manatee">
-                    Unlimited Photos and Videos
+                    Access the Marketplace
                   </li>
                   <li className="mb-4 text-black last:mb-0 dark:text-manatee">
-                    Exclusive Support
+                    Access the blockchain eplorer
                   </li>
                   <li className="mb-4 text-black opacity-40 last:mb-0 dark:text-manatee">
-                    Custom Branding Strategy
+                    Access item based history and provenance
                   </li>
                 </ul>
               </div>
 
               <button
-                aria-label="Get the Plan button"
+                aria-label="Explore button"
                 className="group/btn inline-flex items-center gap-2.5 font-medium text-primary transition-all duration-300 dark:text-white dark:hover:text-primary"
               >
                 <span className="duration-300 group-hover/btn:pr-2">
-                  Get the Plan
+                  Explore More
                 </span>
                 <svg
                   width="14"
@@ -140,39 +140,39 @@ const Pricing = () => {
             {/* <!-- Pricing Item --> */}
             <div className="animate_top group relative rounded-lg border border-stroke bg-white p-7.5 shadow-solid-10 dark:border-strokedark dark:bg-blacksection dark:shadow-none md:w-[45%] lg:w-1/3 xl:p-12.5">
               <h3 className="mb-7.5 text-3xl font-bold text-black dark:text-white xl:text-sectiontitle3">
-                $189{" "}
+                Certifiers{" "}
                 <span className="text-regular text-waterloo dark:text-manatee">
-                  /month
+                  
                 </span>
               </h3>
               <h4 className="mb-2.5 text-para2 font-medium text-black dark:text-white">
-                Large Pack
+                Third Party Vendors
               </h4>
-              <p>Lorem ipsum dolor sit amet, consec adipisicing elit.</p>
+              <p>For businesses which require certification from third party vendors.</p>
 
               <div className="mt-9 border-t border-stroke pb-12.5 pt-9 dark:border-strokedark">
                 <ul>
                   <li className="mb-4 text-black last:mb-0 dark:text-manatee">
-                    300 GB Storage
+                    Certify items of Users
                   </li>
                   <li className="mb-4 text-black last:mb-0 dark:text-manatee">
-                    Unlimited Photos and Videos
+                    Help in compliance
                   </li>
                   <li className="mb-4 text-black last:mb-0 dark:text-manatee">
-                    Exclusive Support
+                    Give their own provenance on blockchain
                   </li>
                   <li className="mb-4 text-black last:mb-0 dark:text-manatee">
-                    Custom Branding Strategy
+                    
                   </li>
                 </ul>
               </div>
 
               <button
-                aria-label="Get the Plan button"
+                aria-label="Explore button"
                 className="group/btn inline-flex items-center gap-2.5 font-medium text-primary transition-all duration-300 dark:text-white dark:hover:text-primary"
               >
                 <span className="duration-300 group-hover/btn:pr-2">
-                  Get the Plan
+                  Explore More
                 </span>
                 <svg
                   width="14"

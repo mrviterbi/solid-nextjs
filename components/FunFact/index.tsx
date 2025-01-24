@@ -83,9 +83,9 @@ const FunFact = () => {
               className="animate_top text-center"
             >
               <h3 className="mb-2.5 text-3xl font-bold text-black dark:text-white xl:text-sectiontitle3">
-                500K
+                5
               </h3>
-              <p className="text-lg lg:text-para2">World Wide Clients</p>
+              <p className="text-lg lg:text-para2">Peers</p>
             </motion.div>
             <motion.div
               variants={{
@@ -106,9 +106,9 @@ const FunFact = () => {
               className="animate_top text-center"
             >
               <h3 className="mb-2.5 text-3xl font-bold text-black dark:text-white xl:text-sectiontitle3">
-                1M+
+                100
               </h3>
-              <p className="text-lg lg:text-para2">Downloads</p>
+              <p className="text-lg lg:text-para2">Blocks</p>
             </motion.div>
             <motion.div
               variants={{
@@ -129,9 +129,9 @@ const FunFact = () => {
               className="animate_top text-center"
             >
               <h3 className="mb-2.5 text-3xl font-bold text-black dark:text-white xl:text-sectiontitle3">
-                865
+                10
               </h3>
-              <p className="text-lg lg:text-para2">Winning Award</p>
+              <p className="text-lg lg:text-para2">Users</p>
             </motion.div>
           </div>
         </div>
